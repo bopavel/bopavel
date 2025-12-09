@@ -4,7 +4,7 @@
 
 <!-- //### Research Analyst | ... -->
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=52b55e&center=true&vCenter=true&width=600&lines=Bridging+Innovation+with+Implementation;Climate+Technology+%26+Energy+Policy;Quantitative+Research+%26+Strategic+Analysis;Building+Systems+That+Matter" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=5fc3c4&center=true&vCenter=true&width=600&lines=Bridging+Innovation+with+Implementation;Climate+Technology+%26+Energy+Policy;Quantitative+Research+%26+Strategic+Analysis;Building+Systems+That+Matter" alt="Typing SVG" />
 
 
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
