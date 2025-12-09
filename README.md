@@ -1,6 +1,6 @@
 <div align="center">
 
-# Pavel B.
+# Pavel Bogomazov
 
 <!-- //### Research Analyst | ... -->
 
@@ -17,7 +17,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bopavel)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pavel.bogm@gmail.com)
-[![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/my-orcid?orcid=0000-0003-0915-0956)
+[![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0000-0003-0915-0956)
 
 </div>
 
@@ -27,7 +27,7 @@
 
 I've lived across continents, studied consumer behavior, economics, and technology management, conducted energy and climate research, worked in corporate strategy, and built a biodegradable packaging startup.
 
-Each experience reinforced a core belief: **the gap between "what could work" and "what does work" is where interesting problems live.**
+Each experience reinforced a core belief: **the gap between `what could work` and `what does work` is where interesting problems live.**
 
 
 
