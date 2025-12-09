@@ -1,19 +1,16 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-
-</div>
-
-<div align="center">
-
 # Pavel B.
 
 <!-- //### Research Analyst | ... -->
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=2E9EFF&center=true&vCenter=true&width=600&lines=Bridging+Innovation+with+Implementation;Climate+Technology+%26+Energy+Policy;Quantitative+Research+%26+Strategic+Analysis;Building+Systems+That+Matter" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=52b55e&center=true&vCenter=true&width=600&lines=Bridging+Innovation+with+Implementation;Climate+Technology+%26+Energy+Policy;Quantitative+Research+%26+Strategic+Analysis;Building+Systems+That+Matter" alt="Typing SVG" />
 
-<div align="center">
-<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="300" alt="Innovation"/>
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+
+<!-- <div align="center"> -->
+<!-- <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="300" alt="Innovation"/> -->
 <!-- <br><sub><i>Building elegant solutions</i></sub> -->
 
 ---
@@ -96,8 +93,8 @@ Behavioral experiment with 1,000+ users in Jeju, analyzing charging patterns and
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+<!-- ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white) -->
+<!-- ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white) -->
 
 </div>
 
