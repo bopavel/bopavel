@@ -112,7 +112,3 @@ Behavioral experiment with 1,000+ users in Jeju, analyzing charging patterns and
 
 </div>
 
-![GitHub Snake Light](https://raw.githubusercontent.com/bopavel/bopavel/output/github-snake.svg)
-
-<!-- ![GitHub Snake Dark](https://raw.githubusercontent.com/<your-username>/<your-username>/output/github-snake-dark.svg) -->
-
