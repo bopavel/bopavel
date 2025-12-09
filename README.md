@@ -111,3 +111,8 @@ Behavioral experiment with 1,000+ users in Jeju, analyzing charging patterns and
 <img src="https://capsule-render.vercel.app/api?type=waving&color=2E9EFF&height=100&section=footer" width="100%"/>
 
 </div>
+
+![GitHub Snake Light](https://raw.githubusercontent.com/bopavel/bopavel/output/github-snake.svg)
+
+<!-- ![GitHub Snake Dark](https://raw.githubusercontent.com/<your-username>/<your-username>/output/github-snake-dark.svg) -->
+
