@@ -76,7 +76,7 @@ Quantifying the Inflation Reduction Act's impact on CCS deployment using quasi-e
 Strategic analysis of Korea's Yongin Semiconductor Cluster ($470B investment), evaluating supply chain resilience and technology ecosystem development.
 
 **EV Charging Behavior** · *Field Experiment, 2024-2025*  
-Behavioral experiment with 1,000+ users in Jeju, analyzing charging patterns and infrastructure utilization.
+Behavioral experiment with EV users in Jeju, analyzing charging patterns and infrastructure utilization.
 
 ---
 
