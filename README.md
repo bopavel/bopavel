@@ -4,7 +4,7 @@
 
 <!-- //### Research Analyst | ... -->
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=5fc3c4&center=true&vCenter=true&width=600&lines=Consulting+→+helping+clients+with+market+entry;Consulting+→+helping+clients+with+growth+strategy;Finance+→+capital+allocation;Finance+→+investment+analysis;Consumer+→+incentive+design;Consumer+→+behavioral+economics;Climate+tech+→+deployment+strategy;Climate+tech+→+energy+policy;Bridging+innovation+with+implementation;Quantitative+research+%26+Strategic+analysis;Building+systems+that+matter" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=5fc3c4&center=true&vCenter=true&width=600&lines=Consulting+→+helping+clients+with+Market+Entry;Consulting+→+helping+clients+with+Growth+Strategy;Finance+→+capital+%26+resource+allocation;Finance+→+investment+analysis;Consumer+→+incentive+design;Consumer+→+behavioral+economics;Climate+tech+→+deployment+strategy;Climate+tech+→+energy+policy;Bridging+innovation+with+implementation;Quantitative+research+%26+Strategic+analysis;Building+systems+that+matter;Technology+adoption+%26+Market+strategy" alt="Typing SVG" />
 
 
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
@@ -72,7 +72,7 @@ Impact          → Enhanced model flexibility for policy research
 
 ## Selected Research
 
-**Climate Technology Investment** · *Forthcoming, Nature Energy*  
+**Technology Investment / Deployment** · *Forthcoming, Nature Energy*  
 Quantifying the Inflation Reduction Act's impact on CCS deployment using quasi-experimental methods.
 
 **Semiconductor Cluster Analysis** · *KAIST CEPS, 2025*  
@@ -83,7 +83,7 @@ Behavioral experiment with EV users in Jeju, analyzing charging patterns and inf
 
 ---
 
-## Data, Analysis, & Visualization
+## Data, Analysis & Visualization
 
 <div align="center">
 
