@@ -25,9 +25,9 @@
 
 ## About Me
 
-I've lived across continents, studied consumer behavior, economics, and technology management, conducted energy and climate research, worked in corporate strategy, and built a biodegradable packaging startup.
+Hi, I am Pavel :)
 
-Each experience reinforced a core belief: **the gap between `what could work` and `what does work` is where interesting problems live.**
+I help organizations figure out how to scale technologies and products through smart incentive design and capital allocation.
 
 
 
@@ -35,6 +35,9 @@ Each experience reinforced a core belief: **the gap between `what could work` an
 <summary>📖 <b>Origin Story</b></summary>
 <br>
 
+I've lived across continents, studied economics, business, and technology management, and worked across corporate strategy, technology commercialization, and emerging market analysis - from consumer insights to climate-tech innovation.
+
+Each experience reinforced a core belief: the gap between `what could work` and `what does work` is where interesting problems live, and my through-line is `how to make things scale`.
 
 
 </details>
