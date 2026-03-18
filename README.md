@@ -1,6 +1,6 @@
 <div align="center">
 
-# Pavel Bogomazov
+# Pavel B.
 
 <!-- //### Research Analyst | ... -->
 
@@ -35,9 +35,9 @@ I help organizations figure out how to scale technologies and products through s
 <summary>📖 <b>Origin Story</b></summary>
 <br>
 
-I've lived across continents, studied economics, business, and technology management, and worked across corporate strategy, technology commercialization, and emerging market analysis - from consumer insights to climate-tech innovation.
+I've lived across continents, studied economics, business, management, and worked across strategy, emerging technology, and energy market analysis - from consumer insights to climate-tech innovation.
 
-Each experience reinforced a core belief: the gap between `what could work` and `what does work` is where interesting problems live, and my through-line is `how to make things scale`.
+Each experience reinforced a belief that the gap between `what could work` and `what does work` is where interesting problems live, and for this reason, my through-line is `how to make things scale`.
 
 
 </details>
@@ -70,16 +70,16 @@ Impact          → Enhanced model flexibility for policy research
 
 ---
 
-## Selected Research
+## Selected Initiatives
 
-**Technology Investment / Deployment** · *Forthcoming, Nature Energy*  
+** Capital-Intensive Investment / Technology Deployment** · *Forthcoming, Nature Energy*  
 Quantifying the Inflation Reduction Act's impact on CCS deployment using quasi-experimental methods.
 
 **Semiconductor Cluster Analysis** · *KAIST CEPS, 2025*  
-Strategic analysis of Korea's Yongin Semiconductor Cluster ($470B investment), evaluating supply chain resilience and technology ecosystem development.
+Strategic analysis of Korea's Yongin cluster ($470B investment), evaluating energy sourcing and ecosystem development.
 
 **EV Charging Behavior** · *Field Experiment, 2024-2025*  
-Behavioral experiment with EV users in Jeju, analyzing charging patterns and infrastructure utilization.
+Field experiment with EV users in Jeju, analyzing charging patterns and infrastructure utilization.
 
 ---
 
