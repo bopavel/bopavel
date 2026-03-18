@@ -72,7 +72,7 @@ Impact          → Enhanced model flexibility for policy research
 
 ## Selected Initiatives
 
-** Capital-Intensive Investment / Technology Deployment** · *Forthcoming, Nature Energy*  
+**Capital-Intensive Investment / Technology Deployment** · *Forthcoming, Nature Energy*  
 Quantifying the Inflation Reduction Act's impact on CCS deployment using quasi-experimental methods.
 
 **Semiconductor Cluster Analysis** · *KAIST CEPS, 2025*  
