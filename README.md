@@ -4,7 +4,7 @@
 
 <!-- //### Research Analyst | ... -->
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=5fc3c4&center=true&vCenter=true&width=600&lines=Consulting+→+helping+clients+with+Market+Entry;Help+clients+with+Growth+Strategy;Finance+→+capital+%26+resource+allocation;Finance+→+investment+analysis;Consumer+→+incentive+design;Consumer+→+behavioral+economics;Climate+tech+→+deployment+strategy;Climate+tech+→+energy+policy;Bridging+innovation+with+implementation;Quantitative+research+%26+Strategic+analysis;Building+systems+that+matter;Technology+adoption+%26+Market+strategy" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=5fc3c4&center=true&vCenter=true&width=600&lines=Market+Entry+%26+Growth+Strategy;Capital+Allocation+%26+Investment+Analysis;Incentive+Design;Technology+Deployment;Climate+%26+Energy+Policy;Quantitative+Research+%26+Strategic+Analysis" alt="Typing SVG" />
 
 
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
@@ -27,15 +27,14 @@
 
 Hi, I am Pavel :)
 
-I help organizations figure out how to scale technologies and products through smart incentive design and capital allocation.
-
+I study how incentives, capital allocation, and policy decide whether new technologies scale, and turn that into analysis for strategy, investment, and energy decisions.
 
 
 <details>
 <summary>📖 <b>Origin Story</b></summary>
 <br>
 
-I've lived across continents, studied economics, business, management, and worked across strategy, emerging technology, and energy market analysis - from consumer insights to climate-tech innovation.
+I've lived across continents, studied economics and management, worked across strategy and emerging markets analysis - from consumer insights to climate-tech innovation.
 
 Each experience reinforced a belief that the gap between `what could work` and `what does work` is where interesting problems live, and for this reason, my through-line is `how to make things scale`.
 
@@ -44,42 +43,29 @@ Each experience reinforced a belief that the gap between `what could work` and `
 
 ---
 
-## Recent Projects
-
-### 🎯 [AI Prompts Library](https://github.com/bopavel/ai-prompts-library)
-> **Battle-tested prompts for specialized AI behaviors**
-
-Collection of tailored AI prompts that solve real problems with unique behavioral designs. Not generic "be helpful" prompts. Each entry targets a specific use case with testing evidence, customization guides, and limitations.
-```yaml
-Categories        → Writing · Research · Business · Development
-Approach          → Behavioral design, not task description  
-Quality Standard  → Tested in 5+ real scenarios minimum
-```
-
----
+## Selected Projects
 
 ### 🌐 [Custom GCAM Scenarios](https://github.com/bopavel/gcam-custom-scenarios)
 > **Integrated assessment modeling for climate and energy systems**
 
-Contributions to the [Global Change Analysis Model (GCAM)](https://github.com/bopavel/gcam-core) community, focusing on custom scenario development for energy transition pathways. Work includes modifications to input and config files for region-sector-tech-specific climate policy analysis.
+Contributions to the [Global Change Analysis Model (GCAM)](https://github.com/bopavel/gcam-core) community, focusing on custom scenario development for energy transition pathways. Work includes modifications to input and config files for region-sector-tech-specific policy analysis.
 ```yaml
 Contributions   → Custom input files · Configuration scenarios · Regional modules
-Use Cases       → Energy transition modeling · Policy scenario analysis (e.g., NDCs)
+Use Cases       → Energy transition modeling · Policy scenario analysis (NDCs)
 Impact          → Enhanced model flexibility for policy research
 ```
 
 ---
 
-## Selected Initiatives
+### 🎯 [AI Prompts Library](https://github.com/bopavel/ai-prompts-library)
+> **Collection of prompts for specialized AI behaviors**
 
-**Capital-Intensive Investment / Technology Deployment** · *Forthcoming, Nature Energy*  
-Quantifying the Inflation Reduction Act's impact on CCS deployment using quasi-experimental methods.
-
-**Semiconductor Cluster Analysis** · *KAIST CEPS, 2025*  
-Strategic analysis of Korea's Yongin cluster ($470B investment), evaluating energy sourcing and ecosystem development.
-
-**EV Charging Behavior** · *Field Experiment, 2024-2025*  
-Field experiment with EV users in Jeju, analyzing charging patterns and infrastructure utilization.
+Prompts for specific writing, research, and analysis tasks, each with its use case, customization notes, and limitations.
+```yaml
+Categories        → Writing · Research · Business · Development
+Approach          → Behavioral design
+Quality Standard  → Tested in 5+ real scenarios
+```
 
 ---
 
