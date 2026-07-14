@@ -1,6 +1,6 @@
 <div align="center">
 
-# Pavel Bo
+# Pavel B.
 
 <!-- //### Research Analyst | ... -->
 
