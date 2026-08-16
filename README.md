@@ -35,10 +35,10 @@ Each experience reinforced a belief that the gap between `what could work` and `
 
 ## Selected Projects
 
-### 🧠 AI Evaluation Benchmark (under review)
-> **Benchmarking LLM question answering over specialized market & regulatory documents**
+### 🧠 AI Evaluation Benchmark
+> **Benchmarking LLM question answering over carbon market & regulatory documents**
 
-Co-developed evaluation benchmark testing retrieval-augmented QA for language models on domain-specific documents: 8,000 test cases across 400 projects in 50+ countries, mapped to industry standards.
+Co-developed [CarbonBench](https://github.com/bopavel/carbonbench-kaist) evaluation benchmark testing retrieval-augmented QA for language models on domain-specific documents: 8,000 test cases across 400 carbon credit projects in 50+ countries, mapped to industry standards.
 
 ```yaml
 Scope          → 8,000 test cases · 400 projects · 50+ countries
